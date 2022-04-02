@@ -1,0 +1,81 @@
+button{
+    width: 100px;
+    height: 100px;    
+}
+#btn1{
+    background-image: url("images/crash.png");
+    cursor: pointer;
+}
+#btn2{
+    background-image: url("images/kick.png");
+    cursor: pointer;
+}
+#btn3{
+    background-image: url("images/snare.png");
+    cursor: pointer;
+}
+#btn4{
+    background-image: url("images/tom1.png");
+    cursor: pointer;
+}
+#btn5{
+    background-image: url("images/tom2.png");
+    cursor: pointer;
+}
+#btn6{
+    background-image: url("images/tom3.png");
+    cursor: pointer;
+}
+#btn7{
+    background-image: url("images/tom4.png");
+    cursor: pointer;
+}
+#btn1:hover{
+    color: red;
+    cursor: pointer;
+}
+#btn2:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+#btn3:hover{
+    background-color: orange;
+    cursor: pointer;
+}
+#btn4:hover{
+    background-color: green;
+    cursor: pointer;
+}
+#btn5:hover{
+    background-color: pink;
+    cursor: pointer;
+}
+#btn6:hover{
+   background-color: brown;
+   cursor: pointer;
+}
+#btn7:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+body{
+    background-color: gray;
+}   
+h1{
+    font-size: 50px;
+    color: pink;
+    width: 500px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+div{
+    padding-top: 100px;
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+button{
+    padding: 50px;
+}
+    
